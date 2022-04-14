@@ -1,0 +1,81 @@
+{
+  "login": "login",
+  "register": "Register",
+  "email": "Email Address",
+  "password": "Password",
+  "submit": "Submit",
+  "copyright": "Copyright © ",
+  "country": "Country",
+  "brand": "Brand",
+  "agency": "Agency",
+  "influencerMarketing": "Influencer Marketing",
+  "brandedContent": "Branded Content",
+  "employees": "Employees",
+  "compaigns": "Compaigns",
+  "yourPurpose": "Your purpose",
+  "iam": "I am",
+  "categories": {
+    "food_drink": "Food & Drink",
+    "fashion": "Fashion",
+    "beauty_personal_care": "Beauty & Personal care",
+    "social_media_web_tech": "Social Media, Web & Tech",
+    "photography_art_design": "Photography, Art & Design",
+    "entairment_events": "Entairment & Events",
+    "health_fitness_sport": "Health, Fitness & Sport",
+    "travel_destinations": "Travel & Destinations",
+    "restaurant_bars_hotels": "Restaurant, Bars & Hotels",
+    "automotive": "Automotive",
+    "children_family": "Children & Family",
+    "home_garden": "Home & Garden",
+    "animal_books": "Animal & Books",
+    "business_finance_insurance": "Business, Finance & Insurance",
+    "social_enterprise_not_for_profit": "Social Enterprise & Not-for-profit"
+  },
+  "ForgotPassword": {
+    "title": "Reset password",
+    "description": "Forgot your password? Don't worry, we can send you a link to reset it."
+  },
+  "SigninPage": {
+    "title": "Sign in",
+    "links": {
+      "forgotPassword": "Forgot Password?",
+      "newUser": "Don't have an account? Sign up",
+      "remberMe": "Remember me"
+    }
+  },
+  "SignupPage": {
+    "title": "Sign Up",
+    "member": "Already have an account? Sign In",
+    "fields": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "companyName": "Company Name",
+      "phoneNumber": "Phone number(Optional)"
+    }
+  },
+  "RegisterBrand": {
+    "title": "Tell us a bit more to get you started"
+  },
+  "BrandDashboard": {
+    "all": "All",
+    "active": "Active",
+    "expired": "Expired",
+    "paused": "Paused",
+    "scheduled": "Scheduled",
+    "inreview": "In Review",
+    "draft": "Draft",
+    "completed": "Completed",
+    "campaigns": "Campaigns",
+    "contentLibrary": "Content Library",
+    "discover": "Discover",
+    "licenseRequests": "License Requests",
+    "licensed": "Licensed",
+    "brandFans": "Brand Fans",
+    "allCreators": "All Creators",
+    "groups": "Groups"
+  },
+  "AdminDashboard": {
+    "settings": "Settings",
+    "categories": "Categories"
+  }
+}

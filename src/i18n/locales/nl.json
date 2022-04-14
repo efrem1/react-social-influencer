@@ -1,0 +1,81 @@
+{
+  "login": "Anmeldung",
+  "register": "Registrieren",
+  "email": "E-Mail-Addresse",
+  "password": "Passwort",
+  "submit": "Einreichen",
+  "copyright": "Urheberrechte © ",
+  "country": "Land",
+  "brand": "Marke",
+  "agency": "Agentur",
+  "influencerMarketing": "Influencer-Marketing",
+  "brandedContent": "Branded Content",
+  "employees": "Angestellte",
+  "compaigns": "Beschwerden",
+  "yourPurpose": "Dein Zweck",
+  "iam": "Ich bin",
+  "categories": {
+    "food_drink": "Food & Drink",
+    "fashion": "Fashion",
+    "beauty_personal_care": "Beauty & Personal care",
+    "social_media_web_tech": "Social Media, Web & Tech",
+    "photography_art_design": "Photography, Art & Design",
+    "entairment_events": "Entairment & Events",
+    "health_fitness_sport": "Health, Fitness & Sport",
+    "travel_destinations": "Travel & Destinations",
+    "restaurant_bars_hotels": "Restaurant, Bars & Hotels",
+    "automotive": "Automotive",
+    "children_family": "Children & Family",
+    "home_garden": "Home & Garden",
+    "animal_books": "Animal & Books",
+    "business_finance_insurance": "Business, Finance & Insurance",
+    "social_enterprise_not_for_profit": "Social Enterprise & Not-for-profit"
+  },
+  "ForgotPassword": {
+    "title": "Passwort zurücksetzen",
+    "description": "Haben Sie Ihr Passwort vergessen? Keine Sorge, wir können Ihnen einen Link zum Zurücksetzen senden"
+  },
+  "SigninPage": {
+    "title": "Anmelden",
+    "links": {
+      "forgotPassword": "Passwort vergessen?",
+      "newUser": "Sie haben kein Konto? Anmelden",
+      "remberMe": "Erinnere dich an mich"
+    }
+  },
+  "SignupPage": {
+    "title": "Anmeldung",
+    "member": "Sie haben bereits ein Konto? Anmelden",
+    "fields": {
+      "firstName": "Vorname",
+      "lastName": "Familienname, Nachname",
+      "companyName": "Name der Firma",
+      "phoneNumber": "Telefonnummer (freiwillig)"
+    }
+  },
+  "RegisterBrand": {
+    "title": "Erzählen Sie uns ein bisschen mehr, um Ihnen den Einstieg zu erleichtern"
+  },
+  "BrandDashboard": {
+    "all": "All",
+    "active": "Active",
+    "expired": "Expired",
+    "paused": "Paused",
+    "scheduled": "Scheduled",
+    "inreview": "In Review",
+    "draft": "Draft",
+    "completed": "Completed",
+    "campaigns": "Campaigns",
+    "contentLibrary": "Content Library",
+    "discover": "Discover",
+    "licenseRequests": "License Requests",
+    "licensed": "Licensed",
+    "brandFans": "Brand Fans",
+    "allCreators": "All Creators",
+    "groups": "Groups"
+  },
+  "AdminDashboard": {
+    "settings": "Settings",
+    "categories": "Categories"
+  }
+}
